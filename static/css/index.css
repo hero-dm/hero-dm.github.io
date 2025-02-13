@@ -21,6 +21,10 @@ body {
   color:dodgerblue
 }
 
+.author-color {
+  color:hsl(204, 86%, 53%)
+}
+
 .teaser .hero-body {
   padding-top: 0;
   padding-bottom: 3rem;
