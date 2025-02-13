@@ -1,6 +1,6 @@
-# Nerfies
+# HERO: Human-Feedback-Efficient Reinforcement Learning for Online Diffusion Model Finetuning website
 
-This is the repository that contains source code for the [HERO: Human-Feedback-Efficient Reinforcement Learning for Online Diffusion Model Finetuning website](https://hero-dm.github.io). The page is adapted from <a href="https://nerfies.github.io/">Nerfies</a>  
+This is the repository that contains source code for the [HERO: Human-Feedback-Efficient Reinforcement Learning for Online Diffusion Model Finetuning website](https://hero-dm.github.io), published to ICLR 20205. The page is adapted from <a href="https://nerfies.github.io/">Nerfies</a>  
 project page source code.
 
 If you find HERO useful for your work please cite:
